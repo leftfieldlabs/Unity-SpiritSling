@@ -1,0 +1,3 @@
+[submodule "Packages/Meta Tutorial Framework"]
+	path = Packages/Meta Tutorial Framework
+	url = git@github.com:leftfieldlabs/Unity-Showcase-Tutorial-Framework.git
