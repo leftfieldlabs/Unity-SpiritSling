@@ -3,9 +3,11 @@
 
 Spirit Sling is an immersive tabletop game that demonstrates how to build a mixed reality multiplayer experience using enhanced Meta Avatars and capabilities like Platform SDK and Interaction SDK. Up to four players use their wit and strategically placed slingshots to maneuver mystical creatures across a dynamic gameboard.
 
+This codebase is available as both a reference and template for mixed reality projects. You can also test the game on the [Meta Horizon Store](https://www.meta.com/en-gb/experiences/spirit-sling-tabletop/26801347429479910/).
+
 # Before you get started
 
-Before you dive in, ensure you’ve downloaded and installed the necessary packages to run Spirit Sling on Unity. 
+Get familiar with the packages and tools enabling Spirit Sling to support rich interactions and seamless, social multiplayer tabletop experiences.
 
 - [Mixed Reality Utility Kit](https://developers.meta.com/horizon/documentation/unity/unity-mr-utility-kit-overview/) (MRUK) v69 or later: This set of utilities includes scene queries, graphical helpers, and development tools that make it easier to perform common operations when building spatially-aware apps with Scene API.
 - [Meta XR Core SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-core-sdk-269169) v69 or later: This package includes core features for mixed reality development such as Passthrough, Anchors, and Scene to help you create engaging and immersive experiences.
@@ -63,5 +65,3 @@ The majority of Spirit Sling is licensed under [MIT LICENSE](./LICENSE), however
 See the [CONTRIBUTING](./CONTRIBUTING.md) file for how to help out.
 
 This project was built using the [Unity engine](https://unity.com/) with [Photon Fusion](https://doc.photonengine.com/fusion/current/getting-started/fusion-intro).
-
-Test the game on [Meta Quest Store - Spirit Sling Tabletop](https://www.meta.com/en-gb/experiences/spirit-sling-tabletop/26801347429479910/).
