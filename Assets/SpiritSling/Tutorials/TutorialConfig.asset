@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Spirit Sling
   bannerConfig:
-    imagePathOrURL: 
+    imagePathOrURL: .\Documentation\Images\HeaderImage.jpg
     title: Spirit Sling
     description: 
     height: 120

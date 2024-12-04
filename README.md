@@ -1,6 +1,8 @@
 # Spirit Sling Tabletop
 ![Banner](./Documentation/Images/SpiritSling_Marketing_SmallLandscape.png)
 
+# About
+
 Spirit Sling is an immersive tabletop game that demonstrates how to build a mixed reality multiplayer experience using enhanced Meta Avatars and capabilities like Platform SDK and Interaction SDK. Up to four players use their wit and strategically placed slingshots to maneuver mystical creatures across a dynamic gameboard.
 
 This codebase is available as both a reference and template for mixed reality projects. You can also test the game on the [Meta Horizon Store](https://www.meta.com/en-gb/experiences/spirit-sling-tabletop/26801347429479910/).
