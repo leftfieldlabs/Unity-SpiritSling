@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6406cf99f3eda9543b76052362849a20, type: 3}
+  m_Name: Welcome
+  m_EditorClassIdentifier: 
+  _windowTitle: Welcome
+  _logo: {fileID: 0}
+  _icon: {fileID: 0}
+  _priority: 1000
+  _allowWithoutContextFilter: 1
+  _isStartupContext: 0
+  showPageGroupTitle: 1
+  _pages: []
+  _scriptableObjectPages: []
+  _defaultPage: 
+  _parentContexts: []
+  tutorialConfig: {fileID: 11400000, guid: d870494ba9dd75d428325032d0b154a8, type: 2}
+  showBanner: 0
+  pathToRootDoc: ./README.md
+  pageConfigs:
+  - sectionTitle: Spirit Sling Tabletop
+    showSectionInContext: 1
+    showSectionAsChild: 0
+    highlightReference:
+      referenceType: 0
+      obj: {fileID: 0}
+      classType: 
+      scene: {fileID: 0}
+      name: 
+      path: 
+      guid: 
+      instanceID: 0
+  - sectionTitle: Before you get started
+    showSectionInContext: 1
+    showSectionAsChild: 0
+    highlightReference:
+      referenceType: 0
+      obj: {fileID: 0}
+      classType: 
+      scene: {fileID: 0}
+      name: 
+      path: 
+      guid: 
+      instanceID: 0
+  - sectionTitle: Learn
+    showSectionInContext: 1
+    showSectionAsChild: 0
+    highlightReference:
+      referenceType: 0
+      obj: {fileID: 0}
+      classType: 
+      scene: {fileID: 0}
+      name: 
+      path: 
+      guid: 
+      instanceID: 0
+  - sectionTitle: Mechanics and Features
+    showSectionInContext: 1
+    showSectionAsChild: 0
+    highlightReference:
+      referenceType: 0
+      obj: {fileID: 0}
+      classType: 
+      scene: {fileID: 0}
+      name: 
+      path: 
+      guid: 
+      instanceID: 0
+  - sectionTitle: How to run the project in Unity
+    showSectionInContext: 1
+    showSectionAsChild: 0
+    highlightReference:
+      referenceType: 0
+      obj: {fileID: 0}
+      classType: 
+      scene: {fileID: 0}
+      name: 
+      path: 
+      guid: 
+      instanceID: 0
+  - sectionTitle: Project Structure
+    showSectionInContext: 1
+    showSectionAsChild: 0
+    highlightReference:
+      referenceType: 0
+      obj: {fileID: 0}
+      classType: 
+      scene: {fileID: 0}
+      name: 
+      path: 
+      guid: 
+      instanceID: 0
+  - sectionTitle: Dependencies
+    showSectionInContext: 1
+    showSectionAsChild: 0
+    highlightReference:
+      referenceType: 0
+      obj: {fileID: 0}
+      classType: 
+      scene: {fileID: 0}
+      name: 
+      path: 
+      guid: 
+      instanceID: 0
+  highlightReference:
+    referenceType: 0
+    obj: {fileID: 0}
+    classType: 
+    scene: {fileID: 0}
+    name: 
+    path: 
+    guid: 
+    instanceID: 0
