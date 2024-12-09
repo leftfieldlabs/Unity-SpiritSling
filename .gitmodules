@@ -1,4 +1,3 @@
-[submodule "Packages/Meta Tutorial Framework"]
-	path = Packages/Meta Tutorial Framework
+[submodule "Assets/Packages/Unity-Showcase-Tutorial-Framework"]
+	path = Assets/Packages/Unity-Showcase-Tutorial-Framework
 	url = git@github.com:leftfieldlabs/Unity-Showcase-Tutorial-Framework.git
-	branch = main
