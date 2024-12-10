@@ -9,11 +9,11 @@ To run on device you will need a Quest application, and to run in editor you wil
 ### Data Use Checkup
 To use the features from the Platform we need to request which kind of data is required for the application. This can be found in the Data Use Checkup section of the application.
 
-<img src="../Documentation/Images/DataUseCheckup.png" width="40%" height="40%" >
+<img src="Images/DataUseCheckup.png" width="40%" height="40%" >
 
 And configure the required Data Usage:
 
-<img src="../Documentation/Images/DataUseCheckupOptions.png" width="40%" height="40%" >
+<img src="Images/DataUseCheckupOptions.png" width="40%" height="40%" >
 
 - User Id: Oculus Username
 - User Profile: Oculus Username
@@ -22,22 +22,22 @@ Once completed you will need to submit the request, click the submit button at t
 
 To allow sharing of Spatial Anchors the Platform Service Cloud Storage needs to be enabled as well. To enable this go to All Platform Services and then click Add Service Under Cloud Storage
 
-<img src="../Documentation/Images/PlatformServices.png">
+<img src="Images/PlatformServices.png">
 
 Then Enable Automatic Cloud Backup and press submit
 
-<img src="../Documentation/Images/ApplyCloudStorage.png" >
+<img src="Images/ApplyCloudStorage.png" >
 
 Set the Application ID
 We then need to set the application ID in our project in Unity.
 The identifier (App ID) can be found in the API section.
 
-<img src="../Documentation/Images/QuestAppSettings.png" >
+<img src="Images/QuestAppSettings.png" >
 
 Then it needs to be placed in the Assets/Resources/OculusPlatformSettings.asset
 
-<img src="../Documentation/Images/PlatformSettings.png"> 
-<img src="../Documentation/Images/PlatformSettingsField.png">
+<img src="Images/PlatformSettings.png"> 
+<img src="Images/PlatformSettingsField.png">
 
 ## Photon Configuration
 **Note, this is only required to play the app in multiplayer mode.**
@@ -52,7 +52,7 @@ Your new app will now show on your Photon dashboard. Click the App ID to reveal 
 
 Open your unity project and paste your Fusion App ID in [Assets/Photon/Fusion/Resources/PhotonAppSettings](../Assets/Photon/Fusion/Resources/PhotonAppSettings.asset).
 
-<img src="../Documentation/Images/FusionSettings.png">
+<img src="Images/FusionSettings.png">
 
 The Photon Realtime transport should now work. You can check the dashboard in your Photon account to verify there is network traffic.
 
